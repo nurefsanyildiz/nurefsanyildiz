@@ -9,7 +9,7 @@ I'm Nurefşan, a passionate android apps developer. I believe that the brain nev
 <br>
 :diamond_shape_with_a_dot_inside: I'm currently working on Kotlin
 <br>
-:heartpulse: Cats &nbsp; :ghost: Most wanted [Nfts](https://opensea.io/account/created) &nbsp; :test_tube: Epoxy Design
+:heartpulse: Cats &nbsp; :ghost: Most wanted [#](https://opensea.io/collection/catixel) [N](https://opensea.io/collection/heartfeltpatterns) [f](https://opensea.io/collection/matryoshkavalley) [t](https://opensea.io/collection/earthquake-effect) [s](https://opensea.io/collection/drawing-space) &nbsp; :test_tube: Epoxy Design
 
 <details>
   <summary> <b> Certifications :scroll: </summary>
