@@ -13,11 +13,11 @@ I'm Nurefşan, a passionate android apps developer. I believe that the brain nev
 
 <details>
   <summary> <b> Certifications :scroll: </summary>
-  
+
+[SQL](https://www.sololearn.com/certificates/CT-NKDJEZM0)<br>
 [Machine Learning with Python](https://www.udemy.com/certificate/UC-ee140be7-8cd1-49b9-baf7-eb0e6c3fbf8b/)<br>
 [Data Science with Python](https://www.udemy.com/certificate/UC-63D5FTQI/)<br>
 [Deep Learning with Python](https://www.udemy.com/certificate/UC-6a7f2fb5-c899-4b46-9e31-a653372ab201/)<br>
-[SQL Fundamentals Course](https://www.sololearn.com/Certificate/CT-NKDJEZM0/pdf)<br>
 [Python For Beginners](https://www.sololearn.com/certificates/CT-YUNIJTWX)<br>
 [Intermediate Python](https://www.sololearn.com/certificates/CT-KHOF9OQ1)<br>
 [Python Programming for Artificial Intelligence](https://user-images.githubusercontent.com/18148716/229863243-33616748-cb2a-41de-b6ce-5af5e87265d8.png)<br>
