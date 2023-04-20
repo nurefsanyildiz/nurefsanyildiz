@@ -19,6 +19,7 @@ I'm Nurefşan, a passionate android apps developer. I believe that the brain nev
 [Deep Learning with Python](https://www.udemy.com/certificate/UC-6a7f2fb5-c899-4b46-9e31-a653372ab201/)<br>
 [SQL Fundamentals Course](https://www.sololearn.com/Certificate/CT-NKDJEZM0/pdf)<br>
 [Python For Beginners](https://api2.sololearn.com/v2/certificates/CT-YUNIJTWX/image/png)<br>
+[Intermediate Python](https://www.sololearn.com/certificates/CT-KHOF9OQ1)<br>    
 [Python Programming for Artificial Intelligence](https://user-images.githubusercontent.com/18148716/229863243-33616748-cb2a-41de-b6ce-5af5e87265d8.png)<br>
 [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/certificate/UC-705a0170-118f-49dd-8d6b-f989c3e0b334/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)<br>
 </details>
@@ -47,7 +48,7 @@ I'm Nurefşan, a passionate android apps developer. I believe that the brain nev
 </p>
 </details>
 
-#### Connect with me :&nbsp;&nbsp; <a href="https://linkedin.com/in/nurefsan-yildiz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurefsan-yildiz" width=25px /></a>&nbsp; <a href="https://instagram.com/runliy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="runliy" width=25px /></a>&nbsp; [![gmail_icon](https://user-images.githubusercontent.com/18148716/229836562-8528759b-7f99-48da-a414-cfde9809e175.png)](mailto:nurefsanyldz@gmail.com)
+#### Connect with me :&nbsp;&nbsp; <a href="https://linkedin.com/in/nurefsan-yildiz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurefsan-yildiz" width=25px /></a>&nbsp; [![gmail_icon](https://user-images.githubusercontent.com/18148716/229836562-8528759b-7f99-48da-a414-cfde9809e175.png)](mailto:nurefsanyldz@gmail.com)
 
 [![Nurefşan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurefsanyildiz&show_icons=true&theme=vue&hide_border=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurefsanyildiz&layout=compact&hide_border=true&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
