@@ -18,7 +18,7 @@ I'm Nurefşan, a passionate android apps developer. I believe that the brain nev
 [Data Science with Python](https://www.udemy.com/certificate/UC-63D5FTQI/)<br>
 [Deep Learning with Python](https://www.udemy.com/certificate/UC-6a7f2fb5-c899-4b46-9e31-a653372ab201/)<br>
 [SQL Fundamentals Course](https://www.sololearn.com/Certificate/CT-NKDJEZM0/pdf)<br>
-[Python For Beginners](https://api2.sololearn.com/v2/certificates/CT-YUNIJTWX/image/png)<br>
+[Python For Beginners](https://www.sololearn.com/certificates/CT-YUNIJTWX)<br>
 [Intermediate Python](https://www.sololearn.com/certificates/CT-KHOF9OQ1)<br>
 [Python Programming for Artificial Intelligence](https://user-images.githubusercontent.com/18148716/229863243-33616748-cb2a-41de-b6ce-5af5e87265d8.png)<br>
 [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/certificate/UC-705a0170-118f-49dd-8d6b-f989c3e0b334/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)<br>
